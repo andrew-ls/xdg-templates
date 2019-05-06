@@ -1,0 +1,17 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Categories=
+Comment=
+Exec=
+Icon=
+Keywords=
+Name=
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=
+Terminal=false
+TryExec=
+Type=Application
+Version=1.0
